@@ -1,6 +1,7 @@
 # BreachForge Labs Internship Submission Template
 
-This repository is a sample template for organizing your internship tasks and submissions.
+This repository is a sample template for organizing your internship tasks
+and submissions.
 
 It helps you understand:
 
